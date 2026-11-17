@@ -1,4 +1,5 @@
 # Event Storming: практический гайд
+<img width="1280" height="660" alt="image" src="https://github.com/user-attachments/assets/4477e41e-d509-4474-b2b8-04d6cd36e32d" />
 
 ## Что это и зачем
 
